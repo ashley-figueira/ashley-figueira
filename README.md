@@ -15,7 +15,6 @@
 <div>
   <h3>🧰 Some of the Languages and tools I use:</h3><br>
       <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=KOTLIN&color=%23552d84&style=for-the-badge&logo=kotlin&logoColor=whitesmoke" alt="KOTLIN"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=JAVA&color=%23E34F26&style=for-the-badge&logo=java&logoColor=whitesmoke" alt="JAVA"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ANDROID&color=%3DDC84&style=for-the-badge&logo=Android&logoColor=whitesmoke" alt="ANDROID"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACTIVEX&color=%23552d84&style=for-the-badge&logo=reactivex&logoColor=whitesmoke" alt="ReactiveX"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=junit5&color=%233178C6&style=for-the-badge&logo=junit5&logoColor=whitesmoke" alt="Junit5"></a>
