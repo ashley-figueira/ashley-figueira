@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏽, I'm Ashley Figueira</h1>
 
-<h3 align="left">I am a passionate Android Engineer who enjoys creating high-quality Android products. 🚀</h3>
+<h3 align="left">I am a passionate Android Engineer who enjoys creating high-quality Android products and helping others do the same.  🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
@@ -8,6 +8,7 @@
         <p>• ℹ️ Hobbies: <b>Movies 🎥 | Music 🎧 | Exercise 🏃 | Travel ✈️ | Hockey 🏑</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>ashleyfigueira@gmail.com</b></p>
+        <p>• 🌐 Website: <b>www.ashleyfigueira.com</b></p>
 </div><br>
 
 ---
